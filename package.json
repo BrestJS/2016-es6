@@ -1,0 +1,16 @@
+{
+  "name": "2016-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Stéphane Alnet <stephane@shimaore.net> (http://stephane.shimaore.net/)",
+  "license": "Unlicense",
+  "dependencies": {
+    "marked": "^0.3.6",
+    "slide": "git+https://github.com/shimaore/slide.git"
+  },
+  "devDependencies": {
+    "co": "^4.6.0",
+    "seem": "^2.0.0"
+  }
+}
